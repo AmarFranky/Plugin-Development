@@ -8,8 +8,8 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
 
-Here is a short description of the plugin that might appear in the customizer.
-Description
+Custom Popup Plugin - The custom popup plugin can be used to show custom messages as a popup to the visitors of the website when they click on the desired button. It can be used to show the description or more information about something in a new popup window when the user of the website clicks on the button provided.
+The plugin can be used by installing it from the provided link. The text for the button used for popup can be specified in admin panel of the wordpress site. And the message to be displayed when the button is clicked can be specified using the shortcode provided in the plugin.
 
 <!DOCTYPE html>
 <html lang="en">
